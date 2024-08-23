@@ -37,10 +37,9 @@ To get started with this project, follow the steps below:
        streamlit run app.py
 
 # Technologies Used
+- Streamlit
 - Llama 3.1:
-     Advanced AI model used for synthetic data generation and pattern analysis.
 - Phi-3 Models:
-      Optimized for lightweight edge device deployment, enabling real-time threat detection.
 
 # Regards
 A special thanks to all the contributors and mentors who guided the development of this project during the Edge-Runners Hackathon. Your support is invaluable!
