@@ -3,7 +3,7 @@ import random
 import json
 
 # Replace with your Llama API key
-openai.api_key = "LA-0bb4044544834ffcb870053aebf7a750a7e616f60e20471596fd02545d258041"
+openai.api_key = "LA-API-KEY"
 
 def generate_synthetic_traffic_data(num_samples=100):
     traffic_data = []
