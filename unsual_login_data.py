@@ -2,7 +2,7 @@ import openai
 import json
 
 # Initialize OpenAI client with your API key
-openai.api_key = "LA-0bb4044544834ffcb870053aebf7a750a7e616f60e20471596fd02545d258041"
+openai.api_key = "API_KEY"
 
 def generate_synthetic_data_via_api(num_samples=100):
     synthetic_data = []
