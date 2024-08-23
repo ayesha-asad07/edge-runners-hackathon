@@ -10,31 +10,38 @@ AI Cybersecurity Model for Edge DevicesWelcome to DefendX, an AI-powered cyberse
          Analyze and detect unusual traffic patterns to prevent unauthorized access.
 # Project Structure
 - **..data.py file:**
-   Code for generating synthetic data used to train the model.
+     ```bash
+      Code for generating synthetic data used to train the model.
 - **..model.py:**
+     ```bash
    Code for creating and training AI models using Llama 3.1 and Phi-3.
 - **..app.py:**
+   ```bash
    Frontend implementation using Streamlit for user interaction.
+
+# How to Get Started
+To get started with this project, follow the steps below:
+- Clone the Repositorygit clone
+   
+   ```bash
+   https://github.com/yourusername/DefendX.git
+   cd DefendX
+- Install Requirements
+   - Make sure you have Python 3.x installed.
+   - Then install the required dependencies:
+
+      ```bash
+         pip install -r requirements.txt
+- After installing, you can run the application:
+    ```bash
+       streamlit run app.py
+
 # Technologies Used
 - Llama 3.1:
      Advanced AI model used for synthetic data generation and pattern analysis.
 - Phi-3 Models:
       Optimized for lightweight edge device deployment, enabling real-time threat detection.
-# How to Get Started
-To get started with this project, follow the steps below:
-1. Clone the Repositorygit clone
-   
-   ```bash
-   https://github.com/yourusername/DefendX.git
-   cd DefendX
-# Install Requirements
-1. Make sure you have Python 3.x installed. Then install the required dependencies:
 
-      ```bash
-         pip install -r requirements.txtRequirements
-2. After installing, you can run the application:
-    ```bash
-       streamlit run app.py
 # Regards
 A special thanks to all the contributors and mentors who guided the development of this project during the Edge-Runners Hackathon. Your support is invaluable!
 
