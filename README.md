@@ -18,17 +18,18 @@ Advanced AI model used for synthetic data generation and pattern analysis.
 # How to Get Started
 To get started with this project, follow the steps below:
 1. Clone the Repositorygit clone
-   '''bash
-   https://github.com/yourusername/DefendX.git
    
-cd DefendX
+   ```bash
+   https://github.com/yourusername/DefendX.git
+   cd DefendX
 # Install Requirements
-Make sure you have Python 3.x installed. Then install the required dependencies:
-'''bash
-  pip install -r requirements.txtRequirements
-  
+1. Make sure you have Python 3.x installed. Then install the required dependencies:
+
+      ```bash
+         pip install -r requirements.txtRequirements
 2. After installing, you can run the application:
-   '''bash
-   streamlit run app.py
+    ```bash
+       streamlit run app.py
 # Regards
 A special thanks to all the contributors and mentors who guided the development of this project during the Edge-Runners Hackathon. Your support is invaluable!
+
