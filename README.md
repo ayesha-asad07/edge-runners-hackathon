@@ -24,7 +24,7 @@ To get started with this project, follow the steps below:
 - Clone the Repositorygit clone
    
    ```bash
-   https://github.com/yourusername/DefendX.git
+   git clone https://github.com/ayesha-asad07/edge-runners-hackathon.git
    cd DefendX
 - Install Requirements
    - Make sure you have Python 3.x installed.
