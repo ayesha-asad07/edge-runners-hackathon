@@ -1,4 +1,5 @@
 import json
+import numpy as np
 import tensorflow as tf
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Dense
@@ -17,12 +18,12 @@ def prepare_data(data):
         X.append([sample["traffic_volume"], sample["spike_detected"], sample["unauthorized_access"]])
         # Let's assume the label is whether the traffic is abnormal (spike_detected + unauthorized_access)
         y.append(1 if sample["spike_detected"] or sample["unauthorized_access"] else 0)
-    return X, y
+    return np.array(X), np.array(y)
 
 # Define and train the model
 def train_phi3_model(X, y):
     model = Sequential()
-    model.add(Dense(16, input_dim=3, activation="relu"))
+    model.add(Dense(16, input_dim=X.shape[1], activation="relu"))
     model.add(Dense(8, activation="relu"))
     model.add(Dense(1, activation="sigmoid"))
 
