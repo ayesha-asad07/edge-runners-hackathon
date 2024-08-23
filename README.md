@@ -25,7 +25,7 @@ To get started with this project, follow the steps below:
    
    ```bash
    git clone https://github.com/ayesha-asad07/edge-runners-hackathon.git
-   cd DefendX
+   cd edge-runners-hackathon
 - Install Requirements
    - Make sure you have Python 3.x installed.
    - Then install the required dependencies:
