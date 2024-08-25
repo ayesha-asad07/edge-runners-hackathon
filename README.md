@@ -1,6 +1,6 @@
 
 # DefendX: 
-AI Cybersecurity Model for Edge DevicesWelcome to DefendX, an AI-powered cybersecurity solution designed to enhance the security of edge devices by detecting unusual login activities, background-running malware, and abnormal traffic at routers.
+An AI-powered cybersecurity solution designed to enhance the security of edge devices by detecting unusual login activities, background-running malware, and abnormal traffic at routers.
 # Features
  - **Unusual Login Activity Detection:**
          Monitor and flag suspicious login attempts on edge devices.
