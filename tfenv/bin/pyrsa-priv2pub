@@ -1,0 +1,9 @@
+#!/bin/sh
+'''exec' "/Users/nimrahaq/Desktop/FAST/sem 7/IS/semester_project_22F3295_22F3357_22F3624/edge-runners-hackathon/tfenv/bin/python3.10" "$0" "$@"
+' '''
+import sys
+from rsa.util import private_to_public
+if __name__ == '__main__':
+    if sys.argv[0].endswith('.exe'):
+        sys.argv[0] = sys.argv[0][:-4]
+    sys.exit(private_to_public())

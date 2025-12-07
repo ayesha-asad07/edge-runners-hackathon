@@ -1,0 +1,6002 @@
+[
+    {
+        "timestamp": 1623009607,
+        "traffic_volume": 7673,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1695469056,
+        "traffic_volume": 1129,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1661980341,
+        "traffic_volume": 980,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1651864326,
+        "traffic_volume": 1492,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1664466115,
+        "traffic_volume": 5501,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1699277282,
+        "traffic_volume": 5760,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1646451876,
+        "traffic_volume": 2916,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1635066252,
+        "traffic_volume": 9592,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1616242045,
+        "traffic_volume": 7108,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1665340307,
+        "traffic_volume": 4705,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1620835362,
+        "traffic_volume": 6430,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1629450833,
+        "traffic_volume": 5833,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1648896943,
+        "traffic_volume": 4236,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1665519267,
+        "traffic_volume": 2773,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1629484776,
+        "traffic_volume": 3008,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1648920070,
+        "traffic_volume": 9960,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1670571216,
+        "traffic_volume": 1054,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1695841620,
+        "traffic_volume": 1267,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1635490046,
+        "traffic_volume": 2068,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1649725423,
+        "traffic_volume": 3301,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1691333417,
+        "traffic_volume": 6923,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1674883042,
+        "traffic_volume": 3638,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1623650705,
+        "traffic_volume": 9477,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1673629503,
+        "traffic_volume": 2681,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1611193351,
+        "traffic_volume": 5992,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1631466941,
+        "traffic_volume": 5898,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1612825828,
+        "traffic_volume": 6905,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1702538314,
+        "traffic_volume": 7330,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1650589129,
+        "traffic_volume": 3399,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1642608461,
+        "traffic_volume": 5184,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1624495208,
+        "traffic_volume": 7280,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1610848211,
+        "traffic_volume": 3506,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1652892598,
+        "traffic_volume": 6802,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1613258805,
+        "traffic_volume": 3197,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1627317866,
+        "traffic_volume": 1772,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1679118473,
+        "traffic_volume": 8704,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1662895859,
+        "traffic_volume": 6616,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1682785115,
+        "traffic_volume": 3075,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1615329519,
+        "traffic_volume": 8706,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1675954656,
+        "traffic_volume": 8037,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1671100798,
+        "traffic_volume": 1191,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1662560952,
+        "traffic_volume": 3131,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1697941257,
+        "traffic_volume": 9739,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1674611697,
+        "traffic_volume": 1272,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1637612406,
+        "traffic_volume": 2893,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1666450273,
+        "traffic_volume": 8553,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1694802852,
+        "traffic_volume": 530,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1661779474,
+        "traffic_volume": 1292,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1668993728,
+        "traffic_volume": 4110,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1658091411,
+        "traffic_volume": 2122,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1609850050,
+        "traffic_volume": 1527,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1698589160,
+        "traffic_volume": 4666,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1692684629,
+        "traffic_volume": 5010,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1681014904,
+        "traffic_volume": 8736,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1638061493,
+        "traffic_volume": 5722,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1651704582,
+        "traffic_volume": 9363,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1696271127,
+        "traffic_volume": 5732,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1652334850,
+        "traffic_volume": 1896,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1666436331,
+        "traffic_volume": 6031,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1683557267,
+        "traffic_volume": 2447,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1699299649,
+        "traffic_volume": 4414,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1692228561,
+        "traffic_volume": 1463,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1703429844,
+        "traffic_volume": 6033,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1624150700,
+        "traffic_volume": 5289,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1635809730,
+        "traffic_volume": 6012,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1613866212,
+        "traffic_volume": 4588,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1629790417,
+        "traffic_volume": 3046,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1696462461,
+        "traffic_volume": 7990,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1683514030,
+        "traffic_volume": 509,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1610950213,
+        "traffic_volume": 5907,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1616617147,
+        "traffic_volume": 8230,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1630905328,
+        "traffic_volume": 7243,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1623611109,
+        "traffic_volume": 671,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1649719815,
+        "traffic_volume": 6146,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1692408580,
+        "traffic_volume": 6403,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1658826825,
+        "traffic_volume": 6426,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1665324762,
+        "traffic_volume": 6947,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1622106319,
+        "traffic_volume": 9819,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1703438947,
+        "traffic_volume": 1616,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1696332954,
+        "traffic_volume": 9301,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1620958181,
+        "traffic_volume": 4196,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1650986085,
+        "traffic_volume": 2692,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1663767970,
+        "traffic_volume": 8746,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1691382190,
+        "traffic_volume": 9483,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1684539472,
+        "traffic_volume": 1837,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1615384893,
+        "traffic_volume": 3122,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1660658460,
+        "traffic_volume": 4379,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1676897484,
+        "traffic_volume": 8553,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1649193028,
+        "traffic_volume": 6461,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1682676970,
+        "traffic_volume": 8394,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1618038922,
+        "traffic_volume": 5554,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1679407421,
+        "traffic_volume": 4381,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1698815712,
+        "traffic_volume": 6862,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1686022313,
+        "traffic_volume": 3061,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1618785890,
+        "traffic_volume": 4579,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1675662268,
+        "traffic_volume": 2257,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1633226551,
+        "traffic_volume": 8769,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1666224744,
+        "traffic_volume": 7000,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1622325473,
+        "traffic_volume": 7626,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1642634480,
+        "traffic_volume": 4078,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1636998343,
+        "traffic_volume": 1470,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1679699340,
+        "traffic_volume": 2284,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1615007392,
+        "traffic_volume": 5474,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1655825428,
+        "traffic_volume": 3650,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1688106435,
+        "traffic_volume": 3486,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1615461529,
+        "traffic_volume": 9605,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1610325436,
+        "traffic_volume": 6100,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1626571249,
+        "traffic_volume": 1707,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1613202327,
+        "traffic_volume": 4136,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1651240608,
+        "traffic_volume": 2860,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1619751008,
+        "traffic_volume": 3895,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1665715233,
+        "traffic_volume": 5110,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1673442755,
+        "traffic_volume": 7936,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1674536265,
+        "traffic_volume": 3533,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1639400427,
+        "traffic_volume": 1868,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1613322273,
+        "traffic_volume": 1940,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1620879723,
+        "traffic_volume": 1340,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1649478096,
+        "traffic_volume": 8492,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1675257142,
+        "traffic_volume": 9262,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1662199381,
+        "traffic_volume": 3224,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1648818821,
+        "traffic_volume": 8775,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1644129831,
+        "traffic_volume": 2552,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1691451369,
+        "traffic_volume": 1781,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1625384949,
+        "traffic_volume": 2247,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1635634091,
+        "traffic_volume": 3893,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1625143124,
+        "traffic_volume": 7103,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1641910761,
+        "traffic_volume": 8191,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1621125767,
+        "traffic_volume": 4091,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1683171961,
+        "traffic_volume": 1023,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1637534341,
+        "traffic_volume": 2307,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1657717014,
+        "traffic_volume": 1068,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1658057329,
+        "traffic_volume": 762,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1639516799,
+        "traffic_volume": 6795,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1621724719,
+        "traffic_volume": 5540,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1692247914,
+        "traffic_volume": 820,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1667227936,
+        "traffic_volume": 4752,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1660845420,
+        "traffic_volume": 1511,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1648709663,
+        "traffic_volume": 9105,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1619620256,
+        "traffic_volume": 2164,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1688803962,
+        "traffic_volume": 1431,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1660991593,
+        "traffic_volume": 1296,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1628361703,
+        "traffic_volume": 3938,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1650583583,
+        "traffic_volume": 8301,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1663964448,
+        "traffic_volume": 1095,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1646763874,
+        "traffic_volume": 2734,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1637923834,
+        "traffic_volume": 7876,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1641453021,
+        "traffic_volume": 8069,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1658438725,
+        "traffic_volume": 4428,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1660309684,
+        "traffic_volume": 7186,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1630391070,
+        "traffic_volume": 2607,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1665616820,
+        "traffic_volume": 2651,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1649752904,
+        "traffic_volume": 2930,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1634436935,
+        "traffic_volume": 3300,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1655817736,
+        "traffic_volume": 6999,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1625245543,
+        "traffic_volume": 7902,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1683153412,
+        "traffic_volume": 6839,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1645225702,
+        "traffic_volume": 7262,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1703606591,
+        "traffic_volume": 7171,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1697890424,
+        "traffic_volume": 752,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1624017540,
+        "traffic_volume": 8396,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1613548173,
+        "traffic_volume": 7618,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1690548598,
+        "traffic_volume": 7388,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1629498108,
+        "traffic_volume": 4173,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1699017699,
+        "traffic_volume": 6685,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1610670343,
+        "traffic_volume": 2149,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1632932809,
+        "traffic_volume": 610,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1691425673,
+        "traffic_volume": 9087,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1696055556,
+        "traffic_volume": 5683,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1613632761,
+        "traffic_volume": 2447,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1685528480,
+        "traffic_volume": 7495,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1619539963,
+        "traffic_volume": 1026,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1696391432,
+        "traffic_volume": 1328,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1622582785,
+        "traffic_volume": 7796,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1620937548,
+        "traffic_volume": 5164,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1609760011,
+        "traffic_volume": 1847,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1657079196,
+        "traffic_volume": 1764,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1666197582,
+        "traffic_volume": 7975,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1673065736,
+        "traffic_volume": 634,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1679948638,
+        "traffic_volume": 5817,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1673794277,
+        "traffic_volume": 8572,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1645334131,
+        "traffic_volume": 6022,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1670950473,
+        "traffic_volume": 3178,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1690013111,
+        "traffic_volume": 1377,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1624654794,
+        "traffic_volume": 2040,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1652342989,
+        "traffic_volume": 5944,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1658779921,
+        "traffic_volume": 6087,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1650669466,
+        "traffic_volume": 2889,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1669369017,
+        "traffic_volume": 6066,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1697269212,
+        "traffic_volume": 9727,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1642531661,
+        "traffic_volume": 6049,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1658296781,
+        "traffic_volume": 6829,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1687692554,
+        "traffic_volume": 6538,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1696496272,
+        "traffic_volume": 9973,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1694552969,
+        "traffic_volume": 7822,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1694243851,
+        "traffic_volume": 3486,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1653951981,
+        "traffic_volume": 7381,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1660935291,
+        "traffic_volume": 997,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1647372472,
+        "traffic_volume": 1670,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1632244094,
+        "traffic_volume": 1806,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1702916488,
+        "traffic_volume": 6834,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1659243477,
+        "traffic_volume": 4036,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1679171574,
+        "traffic_volume": 4836,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1667252671,
+        "traffic_volume": 8352,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1652010218,
+        "traffic_volume": 8719,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1678218164,
+        "traffic_volume": 2080,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1624354972,
+        "traffic_volume": 6121,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1664099216,
+        "traffic_volume": 7810,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1615942339,
+        "traffic_volume": 6670,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1625323226,
+        "traffic_volume": 8666,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1657120919,
+        "traffic_volume": 8982,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1674309341,
+        "traffic_volume": 599,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1627080159,
+        "traffic_volume": 1174,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1677455179,
+        "traffic_volume": 9330,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1672138360,
+        "traffic_volume": 2288,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1636855637,
+        "traffic_volume": 1391,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1687352727,
+        "traffic_volume": 5180,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1627891305,
+        "traffic_volume": 6219,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1617434302,
+        "traffic_volume": 1013,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1698931004,
+        "traffic_volume": 9272,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1653430320,
+        "traffic_volume": 3519,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1660477233,
+        "traffic_volume": 5211,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1679563875,
+        "traffic_volume": 9526,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1690059172,
+        "traffic_volume": 7545,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1651062233,
+        "traffic_volume": 9216,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1689136095,
+        "traffic_volume": 1057,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1679268031,
+        "traffic_volume": 5005,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1647128321,
+        "traffic_volume": 2926,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1666544593,
+        "traffic_volume": 6906,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1629096866,
+        "traffic_volume": 9690,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1628298202,
+        "traffic_volume": 1279,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1646548491,
+        "traffic_volume": 7360,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1625924139,
+        "traffic_volume": 6376,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1658937148,
+        "traffic_volume": 1984,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1631995529,
+        "traffic_volume": 8132,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1680402523,
+        "traffic_volume": 1348,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1679034792,
+        "traffic_volume": 8285,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1648100014,
+        "traffic_volume": 7283,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1662033360,
+        "traffic_volume": 9106,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1623998205,
+        "traffic_volume": 741,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1610902289,
+        "traffic_volume": 7837,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1684561927,
+        "traffic_volume": 4288,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1679100941,
+        "traffic_volume": 3471,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1623258117,
+        "traffic_volume": 2313,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1687109986,
+        "traffic_volume": 1495,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1613123256,
+        "traffic_volume": 9177,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1617955445,
+        "traffic_volume": 5835,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1625414450,
+        "traffic_volume": 6191,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1668227758,
+        "traffic_volume": 9403,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1628113281,
+        "traffic_volume": 3014,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1647423052,
+        "traffic_volume": 1014,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1647365741,
+        "traffic_volume": 1360,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1631345784,
+        "traffic_volume": 4108,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1691879458,
+        "traffic_volume": 5244,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1683025446,
+        "traffic_volume": 1667,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1696416925,
+        "traffic_volume": 5168,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1617574118,
+        "traffic_volume": 4494,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1688471921,
+        "traffic_volume": 6699,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1697540917,
+        "traffic_volume": 5061,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1693468424,
+        "traffic_volume": 4272,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1642787126,
+        "traffic_volume": 3254,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1657617378,
+        "traffic_volume": 9280,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1633811582,
+        "traffic_volume": 8502,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1659936009,
+        "traffic_volume": 3494,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1641998775,
+        "traffic_volume": 3012,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1683827301,
+        "traffic_volume": 9138,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1628874114,
+        "traffic_volume": 7736,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1644603164,
+        "traffic_volume": 8773,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1660917914,
+        "traffic_volume": 4799,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1653010418,
+        "traffic_volume": 5123,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1683366828,
+        "traffic_volume": 1027,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1654856037,
+        "traffic_volume": 3664,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1672319962,
+        "traffic_volume": 1835,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1687103735,
+        "traffic_volume": 7880,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1621945069,
+        "traffic_volume": 3847,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1633788598,
+        "traffic_volume": 7172,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1642713293,
+        "traffic_volume": 6177,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1703791252,
+        "traffic_volume": 8905,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1694543983,
+        "traffic_volume": 6260,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1652423257,
+        "traffic_volume": 1445,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1681182811,
+        "traffic_volume": 4145,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1638511201,
+        "traffic_volume": 1258,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1629097501,
+        "traffic_volume": 2867,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1691517630,
+        "traffic_volume": 4870,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1691678386,
+        "traffic_volume": 8296,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1682958396,
+        "traffic_volume": 9288,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1638577456,
+        "traffic_volume": 7727,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1656600767,
+        "traffic_volume": 9723,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1625700579,
+        "traffic_volume": 7637,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1700981282,
+        "traffic_volume": 509,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1669562822,
+        "traffic_volume": 3739,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1611864041,
+        "traffic_volume": 1230,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1660036012,
+        "traffic_volume": 4717,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1682526362,
+        "traffic_volume": 1269,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1639771488,
+        "traffic_volume": 7144,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1702993470,
+        "traffic_volume": 8150,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1637341840,
+        "traffic_volume": 1990,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1691197023,
+        "traffic_volume": 9168,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1642234207,
+        "traffic_volume": 5537,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1614768105,
+        "traffic_volume": 2152,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1660368941,
+        "traffic_volume": 909,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1634632099,
+        "traffic_volume": 5275,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1653167773,
+        "traffic_volume": 5303,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1614962033,
+        "traffic_volume": 5215,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1661924141,
+        "traffic_volume": 1914,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1659067970,
+        "traffic_volume": 530,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1661623854,
+        "traffic_volume": 5305,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1624907284,
+        "traffic_volume": 2593,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1644094652,
+        "traffic_volume": 2900,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1682009876,
+        "traffic_volume": 7831,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1677935252,
+        "traffic_volume": 2054,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1624126202,
+        "traffic_volume": 1103,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1623512674,
+        "traffic_volume": 1503,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1659151022,
+        "traffic_volume": 7808,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1614749411,
+        "traffic_volume": 8890,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1666504889,
+        "traffic_volume": 7128,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1653371934,
+        "traffic_volume": 8037,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1703744236,
+        "traffic_volume": 3617,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1672959820,
+        "traffic_volume": 8407,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1699058625,
+        "traffic_volume": 8876,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1652868490,
+        "traffic_volume": 2963,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1637981404,
+        "traffic_volume": 8161,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1651285628,
+        "traffic_volume": 3739,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1691093761,
+        "traffic_volume": 3441,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1621347985,
+        "traffic_volume": 6377,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1687547788,
+        "traffic_volume": 1172,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1616084691,
+        "traffic_volume": 6812,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1613807927,
+        "traffic_volume": 1004,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1632911784,
+        "traffic_volume": 719,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1625783598,
+        "traffic_volume": 6747,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1609906882,
+        "traffic_volume": 6056,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1645812364,
+        "traffic_volume": 4281,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1620520982,
+        "traffic_volume": 3173,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1689905801,
+        "traffic_volume": 7287,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1614054241,
+        "traffic_volume": 7904,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1686304522,
+        "traffic_volume": 1658,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1685224088,
+        "traffic_volume": 9564,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1685859364,
+        "traffic_volume": 7145,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1698863051,
+        "traffic_volume": 4565,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1642509866,
+        "traffic_volume": 2499,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1631864554,
+        "traffic_volume": 5348,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1656523614,
+        "traffic_volume": 4761,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1656048138,
+        "traffic_volume": 4621,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1657771127,
+        "traffic_volume": 7295,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1674141955,
+        "traffic_volume": 2467,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1662343826,
+        "traffic_volume": 6126,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1691602438,
+        "traffic_volume": 4843,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1651368378,
+        "traffic_volume": 8967,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1635111708,
+        "traffic_volume": 9972,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1643818164,
+        "traffic_volume": 3210,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1653715451,
+        "traffic_volume": 4915,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1671397233,
+        "traffic_volume": 7983,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1678506291,
+        "traffic_volume": 7663,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1679415038,
+        "traffic_volume": 5894,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1646912608,
+        "traffic_volume": 4570,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1656893567,
+        "traffic_volume": 6021,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1621985754,
+        "traffic_volume": 8510,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1611260616,
+        "traffic_volume": 7528,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1678230717,
+        "traffic_volume": 5136,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1677985827,
+        "traffic_volume": 3736,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1656955246,
+        "traffic_volume": 6025,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1669527472,
+        "traffic_volume": 7790,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1664568259,
+        "traffic_volume": 656,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1671036871,
+        "traffic_volume": 3691,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1657466087,
+        "traffic_volume": 7486,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1625075230,
+        "traffic_volume": 5996,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1693591513,
+        "traffic_volume": 8020,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1631256455,
+        "traffic_volume": 6864,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1684093141,
+        "traffic_volume": 1366,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1699141538,
+        "traffic_volume": 8481,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1661796543,
+        "traffic_volume": 7517,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1685461628,
+        "traffic_volume": 5703,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1683228836,
+        "traffic_volume": 3347,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1628905142,
+        "traffic_volume": 982,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1673463600,
+        "traffic_volume": 6297,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1687481060,
+        "traffic_volume": 9910,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1662498205,
+        "traffic_volume": 4049,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1637263147,
+        "traffic_volume": 8928,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1615267759,
+        "traffic_volume": 922,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1676245794,
+        "traffic_volume": 7198,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1693799990,
+        "traffic_volume": 9326,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1679350968,
+        "traffic_volume": 8705,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1672890202,
+        "traffic_volume": 4087,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1696484736,
+        "traffic_volume": 1582,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1625981467,
+        "traffic_volume": 2118,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1659665715,
+        "traffic_volume": 8004,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1684635709,
+        "traffic_volume": 6254,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1666438595,
+        "traffic_volume": 4588,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1685345052,
+        "traffic_volume": 5601,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1695904472,
+        "traffic_volume": 2962,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1674327652,
+        "traffic_volume": 8543,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1698635053,
+        "traffic_volume": 7809,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1638818978,
+        "traffic_volume": 2544,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1627203149,
+        "traffic_volume": 2994,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1691070931,
+        "traffic_volume": 8656,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1693152104,
+        "traffic_volume": 3995,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1668548459,
+        "traffic_volume": 1079,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1701212315,
+        "traffic_volume": 6567,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1666505383,
+        "traffic_volume": 1891,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1691942183,
+        "traffic_volume": 4394,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1672792605,
+        "traffic_volume": 2288,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1657407713,
+        "traffic_volume": 1961,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1699295320,
+        "traffic_volume": 6389,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1615136880,
+        "traffic_volume": 4149,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1687663286,
+        "traffic_volume": 1985,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1640852263,
+        "traffic_volume": 5459,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1650995286,
+        "traffic_volume": 2277,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1612669430,
+        "traffic_volume": 4159,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1648460969,
+        "traffic_volume": 7757,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1671041533,
+        "traffic_volume": 4329,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1702930886,
+        "traffic_volume": 3679,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1650095454,
+        "traffic_volume": 5128,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1622720792,
+        "traffic_volume": 7422,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1655193853,
+        "traffic_volume": 8662,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1643780034,
+        "traffic_volume": 2997,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1682732851,
+        "traffic_volume": 9267,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1684861160,
+        "traffic_volume": 9737,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1626822266,
+        "traffic_volume": 6509,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1669339903,
+        "traffic_volume": 2302,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1648671686,
+        "traffic_volume": 7713,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1654826390,
+        "traffic_volume": 7240,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1638955846,
+        "traffic_volume": 8284,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1668075586,
+        "traffic_volume": 7649,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1678313120,
+        "traffic_volume": 5946,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1698255298,
+        "traffic_volume": 6176,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1697889319,
+        "traffic_volume": 9737,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1701954333,
+        "traffic_volume": 709,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1652237376,
+        "traffic_volume": 4141,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1703648477,
+        "traffic_volume": 2497,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1622687854,
+        "traffic_volume": 7673,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1630769412,
+        "traffic_volume": 9245,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1690585893,
+        "traffic_volume": 6482,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1656389356,
+        "traffic_volume": 7765,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1645156917,
+        "traffic_volume": 2766,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1631050677,
+        "traffic_volume": 7926,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1613146372,
+        "traffic_volume": 7906,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1689448672,
+        "traffic_volume": 9993,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1658149218,
+        "traffic_volume": 8108,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1643199011,
+        "traffic_volume": 7255,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1688674529,
+        "traffic_volume": 1960,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1660201750,
+        "traffic_volume": 4139,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1703472787,
+        "traffic_volume": 1153,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1662280404,
+        "traffic_volume": 661,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1623838459,
+        "traffic_volume": 6584,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1692202073,
+        "traffic_volume": 7308,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1610784984,
+        "traffic_volume": 7013,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1689979277,
+        "traffic_volume": 7344,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1698041104,
+        "traffic_volume": 3636,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1699270400,
+        "traffic_volume": 1710,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1663342391,
+        "traffic_volume": 8094,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1658736782,
+        "traffic_volume": 6470,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1643992625,
+        "traffic_volume": 5466,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1645076581,
+        "traffic_volume": 5921,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1698868353,
+        "traffic_volume": 9146,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1694176169,
+        "traffic_volume": 4499,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1629466610,
+        "traffic_volume": 1692,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1634563098,
+        "traffic_volume": 947,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1685141835,
+        "traffic_volume": 3823,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1664023706,
+        "traffic_volume": 4587,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1627390564,
+        "traffic_volume": 8391,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1632557157,
+        "traffic_volume": 9967,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1641300993,
+        "traffic_volume": 9464,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1673556988,
+        "traffic_volume": 2189,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1617959731,
+        "traffic_volume": 7110,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1651798501,
+        "traffic_volume": 6328,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1633997733,
+        "traffic_volume": 7169,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1639812809,
+        "traffic_volume": 4321,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1613678141,
+        "traffic_volume": 3112,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1683209459,
+        "traffic_volume": 7740,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1669528090,
+        "traffic_volume": 6075,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1681467359,
+        "traffic_volume": 8114,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1689043023,
+        "traffic_volume": 2254,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1643643467,
+        "traffic_volume": 3188,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1652983725,
+        "traffic_volume": 2284,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1653098534,
+        "traffic_volume": 3057,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1638258078,
+        "traffic_volume": 3706,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1618198541,
+        "traffic_volume": 4249,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1615312114,
+        "traffic_volume": 7077,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1633597897,
+        "traffic_volume": 9717,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1703809389,
+        "traffic_volume": 3192,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1612385310,
+        "traffic_volume": 2897,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1637413359,
+        "traffic_volume": 5285,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1689097857,
+        "traffic_volume": 7371,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1671654290,
+        "traffic_volume": 1838,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1695188391,
+        "traffic_volume": 532,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1629637922,
+        "traffic_volume": 7795,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1657678633,
+        "traffic_volume": 8671,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1698046075,
+        "traffic_volume": 2099,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1651790973,
+        "traffic_volume": 7147,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1622263428,
+        "traffic_volume": 4181,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1695927349,
+        "traffic_volume": 1550,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1677470638,
+        "traffic_volume": 951,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1616188024,
+        "traffic_volume": 5018,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1641418606,
+        "traffic_volume": 6088,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1685666917,
+        "traffic_volume": 9777,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1642934318,
+        "traffic_volume": 9065,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1645011920,
+        "traffic_volume": 2287,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1638534097,
+        "traffic_volume": 6034,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1647148944,
+        "traffic_volume": 7192,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1621790764,
+        "traffic_volume": 6169,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1683256321,
+        "traffic_volume": 4616,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1667031533,
+        "traffic_volume": 5315,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1701291227,
+        "traffic_volume": 3891,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1648432986,
+        "traffic_volume": 7417,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1650802368,
+        "traffic_volume": 6738,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1631548281,
+        "traffic_volume": 4573,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1663194750,
+        "traffic_volume": 4905,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1636830356,
+        "traffic_volume": 8673,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1660065532,
+        "traffic_volume": 8877,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1614691555,
+        "traffic_volume": 9782,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1682419060,
+        "traffic_volume": 4675,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1659908320,
+        "traffic_volume": 3221,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1620669413,
+        "traffic_volume": 9750,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1663860634,
+        "traffic_volume": 8563,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1697315444,
+        "traffic_volume": 8890,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1656356544,
+        "traffic_volume": 6932,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1653792903,
+        "traffic_volume": 8298,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1685907751,
+        "traffic_volume": 7270,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1699724565,
+        "traffic_volume": 8045,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1663326100,
+        "traffic_volume": 2462,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1644245053,
+        "traffic_volume": 9266,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1628517699,
+        "traffic_volume": 4318,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1676644036,
+        "traffic_volume": 2249,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1671525323,
+        "traffic_volume": 2486,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1683008505,
+        "traffic_volume": 575,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1666374677,
+        "traffic_volume": 7254,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1696457420,
+        "traffic_volume": 6085,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1697910673,
+        "traffic_volume": 1825,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1637307333,
+        "traffic_volume": 8995,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1668775148,
+        "traffic_volume": 5009,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1622107544,
+        "traffic_volume": 7317,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1683679809,
+        "traffic_volume": 9013,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1699334697,
+        "traffic_volume": 6592,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1659818826,
+        "traffic_volume": 2684,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1664888833,
+        "traffic_volume": 3776,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1638204309,
+        "traffic_volume": 4444,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1692598044,
+        "traffic_volume": 6505,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1625504774,
+        "traffic_volume": 3887,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1628812150,
+        "traffic_volume": 1836,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1650122021,
+        "traffic_volume": 7780,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1631176372,
+        "traffic_volume": 8646,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1663596353,
+        "traffic_volume": 1304,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1619317677,
+        "traffic_volume": 4550,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1643221990,
+        "traffic_volume": 3044,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1702651066,
+        "traffic_volume": 2742,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1649221494,
+        "traffic_volume": 6737,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1670018142,
+        "traffic_volume": 668,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1673486799,
+        "traffic_volume": 2913,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1689307889,
+        "traffic_volume": 4163,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1653104552,
+        "traffic_volume": 9248,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1618203833,
+        "traffic_volume": 5252,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1649505303,
+        "traffic_volume": 6473,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1634484795,
+        "traffic_volume": 7040,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1686770570,
+        "traffic_volume": 9610,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1618994040,
+        "traffic_volume": 6141,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1615020106,
+        "traffic_volume": 5677,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1661480950,
+        "traffic_volume": 8641,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1633767485,
+        "traffic_volume": 517,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1693063181,
+        "traffic_volume": 5927,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1700297958,
+        "traffic_volume": 6598,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1673986035,
+        "traffic_volume": 9026,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1671107298,
+        "traffic_volume": 4604,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1610150792,
+        "traffic_volume": 5270,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1626076297,
+        "traffic_volume": 8705,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1646740922,
+        "traffic_volume": 6834,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1676427779,
+        "traffic_volume": 8991,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1648778388,
+        "traffic_volume": 5435,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1677779427,
+        "traffic_volume": 8441,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1685157591,
+        "traffic_volume": 8432,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1647836428,
+        "traffic_volume": 7332,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1669090684,
+        "traffic_volume": 2764,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1642683537,
+        "traffic_volume": 3727,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1642751127,
+        "traffic_volume": 2963,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1699436362,
+        "traffic_volume": 2082,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1652109829,
+        "traffic_volume": 8432,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1680826504,
+        "traffic_volume": 3993,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1628411067,
+        "traffic_volume": 1054,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1650380125,
+        "traffic_volume": 8124,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1680194918,
+        "traffic_volume": 3963,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1627353748,
+        "traffic_volume": 8205,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1613473089,
+        "traffic_volume": 2188,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1634572213,
+        "traffic_volume": 1877,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1635410270,
+        "traffic_volume": 2772,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1642873466,
+        "traffic_volume": 5410,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1668214678,
+        "traffic_volume": 8085,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1695776054,
+        "traffic_volume": 9802,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1611312153,
+        "traffic_volume": 4762,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1658599585,
+        "traffic_volume": 6565,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1652231656,
+        "traffic_volume": 6980,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1666792874,
+        "traffic_volume": 8812,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1623087871,
+        "traffic_volume": 2764,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1677080182,
+        "traffic_volume": 1694,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1614108644,
+        "traffic_volume": 6159,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1656539112,
+        "traffic_volume": 768,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1693485178,
+        "traffic_volume": 2086,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1681489858,
+        "traffic_volume": 6183,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1703262066,
+        "traffic_volume": 7764,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1639980191,
+        "traffic_volume": 3915,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1643306162,
+        "traffic_volume": 7804,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1635904972,
+        "traffic_volume": 1158,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1663135176,
+        "traffic_volume": 1050,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1629776559,
+        "traffic_volume": 6803,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1617821493,
+        "traffic_volume": 5427,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1640984106,
+        "traffic_volume": 6219,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1690668338,
+        "traffic_volume": 6325,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1650462178,
+        "traffic_volume": 2162,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1669381251,
+        "traffic_volume": 1236,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1668788087,
+        "traffic_volume": 2238,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1686933713,
+        "traffic_volume": 8755,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1654399111,
+        "traffic_volume": 9256,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1678473771,
+        "traffic_volume": 9287,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1672735570,
+        "traffic_volume": 4797,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1683206489,
+        "traffic_volume": 882,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1631160613,
+        "traffic_volume": 3839,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1615571349,
+        "traffic_volume": 4737,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1653276501,
+        "traffic_volume": 9265,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1651722306,
+        "traffic_volume": 4959,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1609898603,
+        "traffic_volume": 7517,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1695912053,
+        "traffic_volume": 3263,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1626342351,
+        "traffic_volume": 5318,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1610823283,
+        "traffic_volume": 6769,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1639281347,
+        "traffic_volume": 8652,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1661794894,
+        "traffic_volume": 8059,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1631047078,
+        "traffic_volume": 7185,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1654252392,
+        "traffic_volume": 4261,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1635889577,
+        "traffic_volume": 8594,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1692251935,
+        "traffic_volume": 3300,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1677511858,
+        "traffic_volume": 2711,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1688472635,
+        "traffic_volume": 9296,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1612243756,
+        "traffic_volume": 6534,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1692013862,
+        "traffic_volume": 9324,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1640816957,
+        "traffic_volume": 5735,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1637592413,
+        "traffic_volume": 5021,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1681288448,
+        "traffic_volume": 6560,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1678276311,
+        "traffic_volume": 5080,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1649666508,
+        "traffic_volume": 3125,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1643305729,
+        "traffic_volume": 3159,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1615489204,
+        "traffic_volume": 1369,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1666480307,
+        "traffic_volume": 7926,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1675462148,
+        "traffic_volume": 4114,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1660337297,
+        "traffic_volume": 6525,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1638949179,
+        "traffic_volume": 1695,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1691747497,
+        "traffic_volume": 3436,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1616909761,
+        "traffic_volume": 1858,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1672725796,
+        "traffic_volume": 5016,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1700167669,
+        "traffic_volume": 6115,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1665995145,
+        "traffic_volume": 7985,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1674533567,
+        "traffic_volume": 8928,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1684117720,
+        "traffic_volume": 9670,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1639632533,
+        "traffic_volume": 9011,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1623223321,
+        "traffic_volume": 4793,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1702549691,
+        "traffic_volume": 571,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1700168180,
+        "traffic_volume": 2867,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1629039887,
+        "traffic_volume": 6342,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1616139385,
+        "traffic_volume": 8984,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1648000458,
+        "traffic_volume": 5405,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1668097519,
+        "traffic_volume": 1781,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1615146600,
+        "traffic_volume": 3549,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1649204678,
+        "traffic_volume": 1783,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1638705009,
+        "traffic_volume": 2986,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1697282288,
+        "traffic_volume": 7397,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1646688790,
+        "traffic_volume": 1756,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1673876835,
+        "traffic_volume": 5178,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1684169193,
+        "traffic_volume": 3069,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1616235306,
+        "traffic_volume": 3775,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1632165959,
+        "traffic_volume": 2510,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1688360351,
+        "traffic_volume": 5402,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1667507719,
+        "traffic_volume": 9972,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1611849950,
+        "traffic_volume": 6604,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1609626055,
+        "traffic_volume": 2952,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1610160065,
+        "traffic_volume": 6923,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1631718121,
+        "traffic_volume": 813,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1647357747,
+        "traffic_volume": 7052,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1689808509,
+        "traffic_volume": 861,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1643070884,
+        "traffic_volume": 3001,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1655097478,
+        "traffic_volume": 4756,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1635310199,
+        "traffic_volume": 9067,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1642427145,
+        "traffic_volume": 1847,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1674824537,
+        "traffic_volume": 2845,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1672638089,
+        "traffic_volume": 7515,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1683668931,
+        "traffic_volume": 8054,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1695136794,
+        "traffic_volume": 9607,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1649732340,
+        "traffic_volume": 5119,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1676000242,
+        "traffic_volume": 8572,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1620951326,
+        "traffic_volume": 8226,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1659249708,
+        "traffic_volume": 5589,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1637323397,
+        "traffic_volume": 8738,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1676612820,
+        "traffic_volume": 5016,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1693429294,
+        "traffic_volume": 7710,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1636172437,
+        "traffic_volume": 8312,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1646632897,
+        "traffic_volume": 4835,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1650145374,
+        "traffic_volume": 3323,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1637451442,
+        "traffic_volume": 2823,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1612799842,
+        "traffic_volume": 5489,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1614402158,
+        "traffic_volume": 4371,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1655619920,
+        "traffic_volume": 9589,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1670395909,
+        "traffic_volume": 7739,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1701681441,
+        "traffic_volume": 1464,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1646190849,
+        "traffic_volume": 9675,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1618542094,
+        "traffic_volume": 5872,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1671416831,
+        "traffic_volume": 1076,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1646446151,
+        "traffic_volume": 2295,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1683753976,
+        "traffic_volume": 4480,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1634059940,
+        "traffic_volume": 2810,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1622252121,
+        "traffic_volume": 2353,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1693701082,
+        "traffic_volume": 6060,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1695070406,
+        "traffic_volume": 3521,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1627364518,
+        "traffic_volume": 3487,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1692050053,
+        "traffic_volume": 2292,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1672405320,
+        "traffic_volume": 5725,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1632055367,
+        "traffic_volume": 5741,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1692922127,
+        "traffic_volume": 9823,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1665527808,
+        "traffic_volume": 2004,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1611492162,
+        "traffic_volume": 4411,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1626195889,
+        "traffic_volume": 1934,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1663148626,
+        "traffic_volume": 4501,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1698359503,
+        "traffic_volume": 2561,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1672304449,
+        "traffic_volume": 8201,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1633797580,
+        "traffic_volume": 9684,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1643150605,
+        "traffic_volume": 2114,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1644445557,
+        "traffic_volume": 3981,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1684651488,
+        "traffic_volume": 863,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1700778443,
+        "traffic_volume": 6295,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1662359691,
+        "traffic_volume": 5755,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1617064912,
+        "traffic_volume": 1827,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1694589083,
+        "traffic_volume": 7988,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1685066615,
+        "traffic_volume": 7746,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1609975770,
+        "traffic_volume": 1077,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1694248231,
+        "traffic_volume": 2444,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1616962100,
+        "traffic_volume": 7167,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1628523981,
+        "traffic_volume": 9952,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1674665848,
+        "traffic_volume": 8132,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1657007054,
+        "traffic_volume": 4420,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1631038383,
+        "traffic_volume": 2813,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1689890606,
+        "traffic_volume": 3330,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1680724289,
+        "traffic_volume": 6059,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1665793104,
+        "traffic_volume": 5464,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1685931714,
+        "traffic_volume": 5623,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1654248886,
+        "traffic_volume": 9937,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1678829366,
+        "traffic_volume": 5268,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1681149986,
+        "traffic_volume": 1878,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1658368489,
+        "traffic_volume": 4913,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1665102123,
+        "traffic_volume": 1094,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1667878280,
+        "traffic_volume": 6330,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1631579616,
+        "traffic_volume": 5188,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1679166918,
+        "traffic_volume": 7114,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1618916916,
+        "traffic_volume": 5914,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1648230626,
+        "traffic_volume": 4081,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1621930846,
+        "traffic_volume": 5854,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1660101460,
+        "traffic_volume": 9980,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1645670108,
+        "traffic_volume": 7855,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1691005664,
+        "traffic_volume": 2669,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1665550157,
+        "traffic_volume": 4408,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1651868131,
+        "traffic_volume": 9638,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1677417710,
+        "traffic_volume": 1140,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1639769838,
+        "traffic_volume": 1926,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1649863825,
+        "traffic_volume": 1481,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1703020666,
+        "traffic_volume": 7699,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1687868428,
+        "traffic_volume": 2022,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1696450105,
+        "traffic_volume": 2579,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1697382804,
+        "traffic_volume": 3401,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1627892467,
+        "traffic_volume": 1147,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1614190359,
+        "traffic_volume": 5121,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1653178248,
+        "traffic_volume": 5965,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1630312432,
+        "traffic_volume": 7904,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1700796292,
+        "traffic_volume": 9834,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1651527950,
+        "traffic_volume": 7054,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1638490740,
+        "traffic_volume": 1547,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1658509967,
+        "traffic_volume": 5023,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1618129989,
+        "traffic_volume": 7913,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1668690255,
+        "traffic_volume": 8782,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1612630803,
+        "traffic_volume": 9317,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1682702296,
+        "traffic_volume": 2585,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1679309754,
+        "traffic_volume": 3905,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1620828050,
+        "traffic_volume": 9894,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1616912182,
+        "traffic_volume": 9430,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1685910812,
+        "traffic_volume": 8153,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1701794883,
+        "traffic_volume": 7884,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1659142735,
+        "traffic_volume": 6089,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1694812362,
+        "traffic_volume": 9408,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1664356148,
+        "traffic_volume": 7028,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1634568530,
+        "traffic_volume": 4561,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1672158441,
+        "traffic_volume": 9457,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1628065422,
+        "traffic_volume": 4252,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1660842440,
+        "traffic_volume": 729,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1702315929,
+        "traffic_volume": 3237,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1663314366,
+        "traffic_volume": 8528,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1635215500,
+        "traffic_volume": 5043,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1620143227,
+        "traffic_volume": 5473,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1702186266,
+        "traffic_volume": 7115,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1697611431,
+        "traffic_volume": 1960,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1653691295,
+        "traffic_volume": 4079,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1672528396,
+        "traffic_volume": 6633,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1654206533,
+        "traffic_volume": 3414,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1622050938,
+        "traffic_volume": 6024,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1651667268,
+        "traffic_volume": 2531,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1702553173,
+        "traffic_volume": 1899,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1674386088,
+        "traffic_volume": 9798,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1644049593,
+        "traffic_volume": 3774,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1683683493,
+        "traffic_volume": 6878,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1698748784,
+        "traffic_volume": 6288,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1660540989,
+        "traffic_volume": 9962,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1642780056,
+        "traffic_volume": 5414,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1628290785,
+        "traffic_volume": 7439,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1662115368,
+        "traffic_volume": 6244,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1670661807,
+        "traffic_volume": 5231,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1648911369,
+        "traffic_volume": 1465,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1613597404,
+        "traffic_volume": 9928,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1609983142,
+        "traffic_volume": 7425,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1675773061,
+        "traffic_volume": 2156,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1676691506,
+        "traffic_volume": 1372,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1663565050,
+        "traffic_volume": 7305,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1667836428,
+        "traffic_volume": 4895,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1613534249,
+        "traffic_volume": 5844,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1678782338,
+        "traffic_volume": 5898,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1639528925,
+        "traffic_volume": 6369,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1616971585,
+        "traffic_volume": 4045,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1649436779,
+        "traffic_volume": 9789,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1630238344,
+        "traffic_volume": 6822,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1633854110,
+        "traffic_volume": 4577,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1614258219,
+        "traffic_volume": 9485,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1654200436,
+        "traffic_volume": 9651,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1610903162,
+        "traffic_volume": 8605,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1691821087,
+        "traffic_volume": 5606,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1627616233,
+        "traffic_volume": 4471,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1644408067,
+        "traffic_volume": 1605,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1691144222,
+        "traffic_volume": 2084,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1626303491,
+        "traffic_volume": 9816,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1646719212,
+        "traffic_volume": 2075,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1655118404,
+        "traffic_volume": 5861,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1671996658,
+        "traffic_volume": 7778,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1638758625,
+        "traffic_volume": 4713,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1614966954,
+        "traffic_volume": 8728,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1661015789,
+        "traffic_volume": 4488,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1628743370,
+        "traffic_volume": 740,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1677891052,
+        "traffic_volume": 7877,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1646739575,
+        "traffic_volume": 3548,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1687607681,
+        "traffic_volume": 6620,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1691746833,
+        "traffic_volume": 821,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1632225389,
+        "traffic_volume": 3837,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1648759669,
+        "traffic_volume": 2767,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1629471529,
+        "traffic_volume": 4504,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1690485686,
+        "traffic_volume": 4297,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1655158319,
+        "traffic_volume": 2436,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1662180539,
+        "traffic_volume": 4550,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1621445446,
+        "traffic_volume": 1592,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1678318327,
+        "traffic_volume": 2861,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1658972146,
+        "traffic_volume": 8821,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1621118740,
+        "traffic_volume": 5972,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1672596873,
+        "traffic_volume": 5152,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1680883489,
+        "traffic_volume": 4321,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1664199177,
+        "traffic_volume": 1062,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1619054426,
+        "traffic_volume": 9456,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1699831852,
+        "traffic_volume": 4494,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1633648425,
+        "traffic_volume": 7871,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1616361039,
+        "traffic_volume": 2220,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1703476365,
+        "traffic_volume": 8756,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1637487660,
+        "traffic_volume": 6681,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1697496985,
+        "traffic_volume": 857,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1670039356,
+        "traffic_volume": 1390,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1655586912,
+        "traffic_volume": 6780,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1661294687,
+        "traffic_volume": 3511,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1685295312,
+        "traffic_volume": 2008,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1632849377,
+        "traffic_volume": 5903,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1671892915,
+        "traffic_volume": 5517,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1621063725,
+        "traffic_volume": 7596,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1643500953,
+        "traffic_volume": 9233,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1672065272,
+        "traffic_volume": 6713,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1618229530,
+        "traffic_volume": 6284,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1697318929,
+        "traffic_volume": 7703,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1684525733,
+        "traffic_volume": 4097,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1612318827,
+        "traffic_volume": 9470,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1615096639,
+        "traffic_volume": 4855,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1675391332,
+        "traffic_volume": 5028,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1613575133,
+        "traffic_volume": 4098,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1680477113,
+        "traffic_volume": 7115,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1626850909,
+        "traffic_volume": 7579,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1685995742,
+        "traffic_volume": 2214,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1637885151,
+        "traffic_volume": 8590,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1673949849,
+        "traffic_volume": 6953,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1667495466,
+        "traffic_volume": 3017,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1680949487,
+        "traffic_volume": 9931,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1674494450,
+        "traffic_volume": 6766,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1648774646,
+        "traffic_volume": 4001,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1640892150,
+        "traffic_volume": 7867,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1671009741,
+        "traffic_volume": 3105,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1687882876,
+        "traffic_volume": 2375,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1690750033,
+        "traffic_volume": 6375,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1609547761,
+        "traffic_volume": 4997,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1609962223,
+        "traffic_volume": 7140,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1668151251,
+        "traffic_volume": 5228,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1673495901,
+        "traffic_volume": 3033,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1645184091,
+        "traffic_volume": 3999,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1674850164,
+        "traffic_volume": 9268,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1609491751,
+        "traffic_volume": 2637,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1682422263,
+        "traffic_volume": 7601,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1628295615,
+        "traffic_volume": 8140,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1644435852,
+        "traffic_volume": 3431,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1683795239,
+        "traffic_volume": 4565,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1648763373,
+        "traffic_volume": 6643,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1658056633,
+        "traffic_volume": 3982,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1646381731,
+        "traffic_volume": 9478,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1644591669,
+        "traffic_volume": 7850,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1645816380,
+        "traffic_volume": 7560,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1638153639,
+        "traffic_volume": 4197,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1620283271,
+        "traffic_volume": 3434,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1617920588,
+        "traffic_volume": 9728,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1619072243,
+        "traffic_volume": 7911,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1664940376,
+        "traffic_volume": 6466,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1642260170,
+        "traffic_volume": 4360,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1675673970,
+        "traffic_volume": 9070,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1617514239,
+        "traffic_volume": 5692,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1627710118,
+        "traffic_volume": 7545,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1680964449,
+        "traffic_volume": 2976,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1621913112,
+        "traffic_volume": 5087,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1625347766,
+        "traffic_volume": 8828,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1673616528,
+        "traffic_volume": 8248,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1656490099,
+        "traffic_volume": 8286,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1699577598,
+        "traffic_volume": 7936,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1702293724,
+        "traffic_volume": 7788,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1628837346,
+        "traffic_volume": 3163,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1622917379,
+        "traffic_volume": 5491,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1668654282,
+        "traffic_volume": 1915,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1642631543,
+        "traffic_volume": 7741,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1649222703,
+        "traffic_volume": 7164,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1613147729,
+        "traffic_volume": 2806,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1688863614,
+        "traffic_volume": 1949,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1674684706,
+        "traffic_volume": 4990,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1635700412,
+        "traffic_volume": 8165,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1687405039,
+        "traffic_volume": 2618,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1664782211,
+        "traffic_volume": 4393,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1610956454,
+        "traffic_volume": 2664,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1613996793,
+        "traffic_volume": 2595,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1627152432,
+        "traffic_volume": 1775,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1687419684,
+        "traffic_volume": 3966,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1691643572,
+        "traffic_volume": 1409,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1659842703,
+        "traffic_volume": 6751,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1610617445,
+        "traffic_volume": 7385,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1676838016,
+        "traffic_volume": 9525,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1612156046,
+        "traffic_volume": 6553,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1651639523,
+        "traffic_volume": 7632,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1680751312,
+        "traffic_volume": 6211,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1669970969,
+        "traffic_volume": 1906,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1684991474,
+        "traffic_volume": 3889,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1634258981,
+        "traffic_volume": 6585,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1682258858,
+        "traffic_volume": 1033,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1656249074,
+        "traffic_volume": 8459,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1685721487,
+        "traffic_volume": 3005,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1663505416,
+        "traffic_volume": 2423,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1679920205,
+        "traffic_volume": 3200,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1689284527,
+        "traffic_volume": 4126,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1625705191,
+        "traffic_volume": 7384,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1614942404,
+        "traffic_volume": 6821,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1672937289,
+        "traffic_volume": 9801,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1639120798,
+        "traffic_volume": 7705,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1682953913,
+        "traffic_volume": 2418,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1612225149,
+        "traffic_volume": 2602,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1616668368,
+        "traffic_volume": 3517,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1620246690,
+        "traffic_volume": 9891,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1619413269,
+        "traffic_volume": 6958,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1649836784,
+        "traffic_volume": 4156,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1677647203,
+        "traffic_volume": 5999,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1657804513,
+        "traffic_volume": 9203,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1651442682,
+        "traffic_volume": 3209,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1651355128,
+        "traffic_volume": 1534,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1690010682,
+        "traffic_volume": 6177,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1657420188,
+        "traffic_volume": 6555,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1690757914,
+        "traffic_volume": 8929,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1672785284,
+        "traffic_volume": 4627,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1620323659,
+        "traffic_volume": 3377,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1637902959,
+        "traffic_volume": 1890,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1645460856,
+        "traffic_volume": 2764,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1646125878,
+        "traffic_volume": 8789,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1653640339,
+        "traffic_volume": 3220,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1692154093,
+        "traffic_volume": 8389,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1622268540,
+        "traffic_volume": 4443,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1623131798,
+        "traffic_volume": 8787,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1630014048,
+        "traffic_volume": 2815,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1670210223,
+        "traffic_volume": 3539,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1611833017,
+        "traffic_volume": 8945,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1677475123,
+        "traffic_volume": 6211,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1678351068,
+        "traffic_volume": 5760,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1667051100,
+        "traffic_volume": 1993,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1690452336,
+        "traffic_volume": 1189,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1652536695,
+        "traffic_volume": 7415,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1639371355,
+        "traffic_volume": 3446,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1640872489,
+        "traffic_volume": 9467,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1670583767,
+        "traffic_volume": 9008,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1684835040,
+        "traffic_volume": 8892,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1629835606,
+        "traffic_volume": 7026,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1622295787,
+        "traffic_volume": 7124,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1650683655,
+        "traffic_volume": 818,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1617625596,
+        "traffic_volume": 9018,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1698273730,
+        "traffic_volume": 3589,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1682828148,
+        "traffic_volume": 1740,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1629445475,
+        "traffic_volume": 2998,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1643825666,
+        "traffic_volume": 8052,
+        "spike_detected": 0,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1647054149,
+        "traffic_volume": 3708,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1626577226,
+        "traffic_volume": 2688,
+        "spike_detected": 1,
+        "unauthorized_access": 0
+    },
+    {
+        "timestamp": 1676599815,
+        "traffic_volume": 5997,
+        "spike_detected": 1,
+        "unauthorized_access": 1
+    },
+    {
+        "timestamp": 1675617191,
+        "traffic_volume": 1370,
+        "spike_detected": 0,
+        "unauthorized_access": 1
+    }
+]

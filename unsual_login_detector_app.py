@@ -4,16 +4,17 @@ import json
 import pickle
 from sklearn.preprocessing import LabelEncoder
 from sklearn.ensemble import RandomForestClassifier
+from tensorflow.keras.models import load_model as keras_load_model
+
 
 # Load the model and encoders
 @st.cache(allow_output_mutation=True)
 def load_model():
-    # Load the trained model
-    with open('trained_model.pkl', 'rb') as model_file:
-        model = pickle.load(model_file)
-    
+    # Load the trained Keras model (.h5)
+    model = keras_load_model("phi3_model.h5")  
+
     # Load the label encoders for location and device
-    with open('label_encoders.json', 'r') as encoders_file:
+    with open("synthetic_login_data_api.json", "r") as encoders_file:
         label_encoders = json.load(encoders_file)
     
     return model, label_encoders
@@ -32,7 +33,6 @@ def preprocess_input(timestamp, location, device, label_encoders):
     encoded_device = device_encoder.transform([device])[0]
 
     return pd.DataFrame({
-        'timestamp': [timestamp],
         'location': [encoded_location],
         'device': [encoded_device]
     })

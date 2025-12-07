@@ -5,7 +5,7 @@ from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Dense
 
 # Load synthetic data
-def load_synthetic_data(filename="genenrate_traffic_data (2).py"):
+def load_synthetic_data(filename="traffic_data.json"):
     with open(filename, "r") as infile:
         data = json.load(infile)
     return data

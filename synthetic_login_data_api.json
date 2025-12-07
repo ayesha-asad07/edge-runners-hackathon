@@ -1,0 +1,4 @@
+{
+    "location": ["US", "Europe", "Asia", "Africa", "Australia"],
+    "device": ["Desktop", "Mobile", "Tablet"]
+}
